@@ -1,8 +1,8 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
-    "password": "",
+    "username": "adminbot",
+    "password": "12345",
     "type": "online"
   },
   "server": {
