@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "Slobot00",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "DEINSVEIL_SMP.aternos.me",
     "port": 41687,
-    "version": "",
+    "version": "1.26.34.33",
     "try-creative": false
   },
   "position": {
