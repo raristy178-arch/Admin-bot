@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "adminbot",
     "password": "12345",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "DEINSVEIL_SMP.aternos.me",
